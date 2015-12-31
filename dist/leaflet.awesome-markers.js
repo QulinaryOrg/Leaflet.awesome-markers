@@ -8,6 +8,8 @@
 
 /*global L*/
 
+// With reference to - http://stackoverflow.com/questions/22622393/leaflet-awesome-markers-adding-numbers
+
 (function(window, document, undefined) {
     "use strict";
     /*
